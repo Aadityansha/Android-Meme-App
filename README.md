@@ -13,5 +13,9 @@
 
 ### Screenshots
 
-![Light mode](https://raw.githubusercontent.com/Aadityansha/Android-Meme-App/main/screenshot-1.png)
-![Dark mode](https://raw.githubusercontent.com/Aadityansha/Android-Meme-App/main/screenshot-2.png)
+<table>
+  <tr>
+    <td><img src='https://raw.githubusercontent.com/Aadityansha/Android-Meme-App/main/screenshot-1.png'></td>
+    <td><img src='https://raw.githubusercontent.com/Aadityansha/Android-Meme-App/main/screenshot-2.png'></td>
+  </tr>
+</table>

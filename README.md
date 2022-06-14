@@ -7,15 +7,20 @@
 
 ### Features
 - Fast speed and Less space
-- Mimimal and beautiful UI/UX
+- Minimal and beautiful UI/UX
 - Share meme with your friends
 - Dark and Light Mode
 
 ### Screenshots
 
-<table>
-  <tr>
-    <td><img src='https://raw.githubusercontent.com/Aadityansha/Android-Meme-App/main/screenshot-1.png' height="500"></td>
-    <td><img src='https://raw.githubusercontent.com/Aadityansha/Android-Meme-App/main/screenshot-2.png' height="500"></td>
-  </tr>
-</table>
+<p align='center'>
+<img src='https://raw.githubusercontent.com/Aadityansha/Android-Meme-App/main/screenshot-1.png' height="600">
+</p>
+<h4 align='center'>Light Mode</h4>
+
+<br><br>
+
+<p align='center'>
+<img src='https://raw.githubusercontent.com/Aadityansha/Android-Meme-App/main/screenshot-2.png' height="600">
+</p>
+<h4 align='center'>Dark Mode</h4>

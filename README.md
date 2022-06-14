@@ -5,6 +5,8 @@
 
 😂 Funny and interesting memes on your hand
 
+<strong><a href="https://github.com/Aadityansha/Android-Meme-App/blob/main/app.apk?raw=true" download>Download</a></strong>
+
 ### Features
 - Fast speed and Less space
 - Minimal and beautiful UI/UX

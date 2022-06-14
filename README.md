@@ -13,14 +13,11 @@
 
 ### Screenshots
 
-<p align='center'>
-<img src='https://raw.githubusercontent.com/Aadityansha/Android-Meme-App/main/screenshot-1.png' height="600">
-</p>
-<h4 align='center'>Light Mode</h4>
-
-<br><br>
-
-<p align='center'>
-<img src='https://raw.githubusercontent.com/Aadityansha/Android-Meme-App/main/screenshot-2.png' height="600">
-</p>
-<h4 align='center'>Dark Mode</h4>
+<table>
+  <td>
+    <img src='https://raw.githubusercontent.com/Aadityansha/Android-Meme-App/main/screenshot-1.png' height="500">
+  </td>
+  <td>
+    <img src='https://raw.githubusercontent.com/Aadityansha/Android-Meme-App/main/screenshot-2.png' height="500">
+  </td>
+</table>
